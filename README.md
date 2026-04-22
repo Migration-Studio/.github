@@ -12,11 +12,11 @@ Migration Studio is a small development collective focused on creating minimal, 
 
 A minimal, self-hosted messaging platform — our take on a lightweight Telegram alternative.
 
-- **Simple**: Clean architecture, minimal dependencies
+- **Simple**: Clean architecture, cross-platform
 - **Self-hosted**: Your data, your server
-- **Python-first**: Built with modern Python practices
+- **Python-first**: Built with modern Python practices, and works even on mobile devices
 
-[Repository](https://github.com/Migration-Studio/telecommunicator) · [Documentation](https://github.com/Migration-Studio/telecommunicator/wiki)
+[Repository](https://github.com/Migration-Studio/telecommunicator)
 
 ## Tech Stack
 
